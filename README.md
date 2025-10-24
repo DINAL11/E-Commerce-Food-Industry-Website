@@ -28,28 +28,29 @@ It allows users to browse products, manage carts, and complete secure online pay
 ```bash
 git clone https://github.com/YOUR_USERNAME/E-Commerce-Food-Industry-Website.git
 cd E-Commerce-Food-Industry-Website
-2. Install dependencies
-bash
-Copy code
+```
+### 2. Install dependencies
+```bash
 npm install
-3. Configure environment variables
+```
+### 3. Configure environment variables
 Create a .env file in the root directory:
-
+```bash
 ini
-Copy code
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=yourpassword
 DB_NAME=food_ecommerce
 PAYPAL_CLIENT_ID=your_client_id
 PAYPAL_SECRET=your_secret
+```
 ⚠️ Do not upload your .env file to GitHub.
 Add .env to your .gitignore file to keep credentials secure.
 
-4. Start the project
-bash
-Copy code
+### 4. Start the project
+```bash
 npm start
+```
 Then visit http://localhost:3000 in your browser.
 
 📚 Project Structure
