@@ -53,16 +53,18 @@ npm start
 ```
 Then visit http://localhost:3000 in your browser.
 
-📚 Project Structure
+## 📚 Project Structure
+```
 csharp
-Copy code
 ├── public/           # Static files (CSS, JS, Images)
 ├── views/            # Frontend templates (HTML/EJS)
 ├── routes/           # Express routes
 ├── config/           # DB & PayPal configurations
 ├── app.js            # Main server file
 └── package.json
-💳 Payment Integration
+```
+
+## 💳 Payment Integration
 Configured PayPal sandbox for testing transactions.
 
 Includes payment verification, order status update, and thank-you page.
