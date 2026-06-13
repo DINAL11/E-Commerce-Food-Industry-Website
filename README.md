@@ -26,7 +26,7 @@ It allows users to browse products, manage carts, and complete secure online pay
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/E-Commerce-Food-Industry-Website.git
+git clone https://github.com/DINAL11/E-Commerce-Food-Industry-Website.git
 cd E-Commerce-Food-Industry-Website
 ```
 ### 2. Install dependencies
